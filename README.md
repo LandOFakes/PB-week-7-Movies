@@ -27,5 +27,4 @@ Normalization uses each user’s observed minimum and maximum. Standardization u
 ## Source
 [Box Office Mojo: 2025 worldwide releases](https://www.boxofficemojo.com/year/world/2025/) supports movie selection only; ratings are synthetic. Accessed October 18, 2026.
 
-## Submission
-Upload the Word report, notebook, CSV, README, and requirements file to GitHub. Submit PBrownWeek7.docx and PBrownWeek7.ipynb with the GitHub link, as required by the professor’s feedback. Upload the extracted files, not only the ZIP.
+
