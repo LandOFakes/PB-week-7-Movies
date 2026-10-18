@@ -16,6 +16,7 @@ All five reviewers and their ratings are fictional, using the assignment’s per
 In Colab, upload both the notebook and CSV. Purple inline styles may render differently on GitHub. Saved outputs are included.
 
 ## Files
+- `PBrownWeek7.docx`: Required Word report with results, explanations, conclusion, and full code appendix.
 - `PBrownWeek7.ipynb`: Code, Markdown, outputs, and conclusion.
 - `PBrownWeek7Ratings.csv`: Source observations; integer ratings from 1 through 5.
 - `requirements.txt`: Packages needed to run the notebook.
@@ -27,4 +28,4 @@ Normalization uses each user’s observed minimum and maximum. Standardization u
 [Box Office Mojo: 2025 worldwide releases](https://www.boxofficemojo.com/year/world/2025/) supports movie selection only; ratings are synthetic. Accessed October 18, 2026.
 
 ## Submission
-Upload the four files in this folder to GitHub, then submit the repository or notebook link. Upload the extracted files, not only the ZIP.
+Upload the Word report, notebook, CSV, README, and requirements file to GitHub. Submit PBrownWeek7.docx and PBrownWeek7.ipynb with the GitHub link, as required by the professor’s feedback. Upload the extracted files, not only the ZIP.
